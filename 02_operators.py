@@ -1,4 +1,5 @@
-#Operadores
+### Operadores ###
+print("### Operadores ###")
 
 print(3 + 4)
 print(3 - 4)
@@ -18,6 +19,7 @@ my_float  = int( 2.5 * 2)
 print("Hola " * my_float)
 
 ### Operadores Comparativos ###
+print("### Operadores Comparativos ###")
 
 print( 3 > 4 )
 print( 3 < 4 )
@@ -26,7 +28,7 @@ print( 3 <= 4 )
 print( 3 == 4 )
 print( 3 != 4 )
 print( 3 > 4  < 2)
-print("--------------------------")
+print("--------------------------\n")
 print( "Hola" > "Python" )
 print( "Hola" < "Python" )
 print( len("aaaa") >= len("abaa") )
